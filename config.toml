@@ -1,7 +1,7 @@
 baseurl = "/"
-title = "Yihui's Twitter Feeds"
-author = "Yihui Xie"
-languagecode = "en"
+title = "Mara's Twitter Feeds"
+author = "Mara Averick"
+languagecode = "en-us"
 theme = "hugo-black-and-light-theme"
 paginate = 10
 
@@ -9,7 +9,7 @@ paginate = 10
   post = "/post/:year/:month/:day/"
 
 [params]
-  sitename = "Yihui's Twitter Feeds"
+  sitename = "Mara's Twitter Feeds"
 
 [[menu.main]]
     name = "Home"
