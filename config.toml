@@ -9,7 +9,7 @@ paginate = 10
   post = "/post/:year/:month/:day/"
 
 [params]
-  sitename = "Mara's Twitter Feeds"
+  sitename = "Mara's #rstats Twitter Feeds"
 
 [[menu.main]]
     name = "Home"
